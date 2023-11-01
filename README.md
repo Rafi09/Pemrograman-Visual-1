@@ -14,27 +14,27 @@
 
 <li>Menghitung Gaji Bersih Direktur Tetap</li></br>
 
-![Direktur Tetap](Gambar/2.png)</p>
+![Direktur Tetap](Gambar/2.PNG)</p>
 
 <li>Menghitung Gaji Bersih Manager Tetap</li></br>
 
-![Manager Tetap](Gambar/3.png)</p>
+![Manager Tetap](Gambar/3.PNG)</p>
 
 <li>Menghitung Gaji Bersih Karyawan Tetap</li></br>
 
-![Karyawan Tetap](Gambar/4.png)</p>
+![Karyawan Tetap](Gambar/4.PNG)</p>
 
 <li>Menghitung Gaji Bersih Direktur Honorer</li></br>
 
-![Direktur Honorer](Gambar/5.png)</p>
+![Direktur Honorer](Gambar/5.PNG)</p>
 
 <li>Menghitung Gaji Bersih Manager Honorer</li></br>
 
-![Manager Honorer](Gambar/6.png)</p>
+![Manager Honorer](Gambar/6.PNG)</p>
 
 <li>Menghitung Gaji Bersih Karyawan Honorer</li></br>
 
-![Karyawan Honorer](Gambar/7.png)</p>
+![Karyawan Honorer](Gambar/7.PNG)</p>
 
 <li>Source Code Menghitung Gaji Bersih</li></br>
 
